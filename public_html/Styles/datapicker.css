@@ -1,0 +1,119 @@
+.datepicker table tr td.active.active {
+  background-color: #00a651 !important;
+  background-image: linear-gradient(to bottom,#00a651,#00a651) !important;
+}
+
+.carousel-indicators > .test {
+  border-radius: 50%;
+  width: 20px !important;
+  height: 20px !important;
+  margin-right: 15px !important;
+  margin-left: 15px !important;
+  background-color: black !important;
+}
+
+.carousel-indicators .active {
+
+background-color: #00a651 !important;
+}
+
+.bootstrap-datetimepicker-widget table thead tr:first-child th:hover {
+background: white !important;
+}
+
+.bootstrap-datetimepicker-widget table thead tr:first-child th {
+border-bottom: 1px solid;
+padding-bottom: 4vh;
+}
+
+.carousel-control-prev {
+  font-size: 16px !important;
+  margin-right: 20px !important;
+  position: absolute !important;
+  right: 80% !important;
+  top: 15% !important;
+  color: black !important;
+  text-indent: 0 !important;
+}
+
+.carousel-control-next {
+font-size: 16px !important;
+margin-left: 20px !important;
+position: absolute !important;
+left: 80% !important;
+top: 0% !important;
+color: black !important;
+text-indent: 0 !important;
+}
+
+.bootstrap-datetimepicker-widget table td.day {
+height: 40px !important;
+}
+
+.Type {
+display: flex;
+justify-content: space-around;
+align-items: center;
+border: 1px solid #BFBFBF;
+margin: 30px;
+border-radius: 10px;
+box-shadow: 3px 3px 13px #bfbfbf;
+}
+
+.Type img {
+margin-left: 3vw;
+margin-right: 3vw;
+}
+
+.TypeHeader {
+font-size: 15px;
+font-weight: bold;
+}
+
+.TypeSecond {
+font-size: 15px;
+}
+
+.Radio {
+width: 30px;
+height: 30px;
+}
+
+.TimeHeader {
+margin-top: 13vh; 
+margin-bottom: 0; 
+background-color: #57AA55;
+padding-top: 2vh;
+padding-bottom: 2vh;
+border-top-left-radius: 25px;
+border-top-right-radius: 25px;
+}
+
+.form-select::-webkit-scrollbar  {
+width: 20px;
+}
+
+.form-select::-webkit-scrollbar-track {
+background: #7ED957;
+}
+
+.form-select::-webkit-scrollbar-thumb  {
+background: #57AA55;
+border-radius: 10px;
+height: 50px;
+}
+/*https://dev.to/lyqht/make-your-website-stand-out-with-a-custom-scrollbar-76m*/
+
+.ButtonSignup {
+background-color: #0BA14B;
+color: white;
+}
+
+.form-control-range::-webkit-range-thumb {
+background: gray;
+color: green;
+}
+
+.TimeBox {
+color: white;
+}
